@@ -1,0 +1,61 @@
+
+
+    Things to fix:
+        max x of level, min x of level -> instance variables in GameCamera
+        Transition between levels -> SplashScreen object in Level class
+        Vector math / trig
+        Main menu
+        Return player to idle state
+        Fix player / ground collision
+        crouch behavior
+        pick up / drop behavior for blocks -> low priority
+        container nodes
+        behaviors need sound
+        singleton spawn issue, enable/disable bug 
+        command animation
+        strategy player powerups
+        register/unregister observers
+        background image
+        killzone for falling death
+        heads up display@s
+        floor tiling
+
+---------------------------------------------------------------------------------------------
+01 Dec 2021
+---------------------------------------------------------------------------------------------
+
+    Open questions / necessary features:
+   
+    Observer platform feature
+    Player death / respawn / helpful splash screen 
+    Game over screen
+    Puzzle in composite level
+    Score -> Amount of time level was completed in
+    Quiz
+    Message from HQ for each level
+    level enhancements
+    colored doors in strategy level
+    wall behavior / stop collision
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
